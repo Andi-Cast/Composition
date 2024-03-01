@@ -11,7 +11,7 @@
 
 ## **UML Diagram**
 ###### This was not provided. I just included it for demonstration purposes.
-<img src="" height="auto" width="50%" >
+<img src="https://github.com/Andi-Cast/Composition/blob/main/CompositionUML.png" height="auto" width="50%" >
 
 -----
 ## **How To Run Program**
